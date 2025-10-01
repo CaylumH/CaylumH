@@ -4,7 +4,7 @@ This portfolio showcases software development projects completed during my Compu
 
 ---
 
-## Projects
+## Projects (Click on project title to view repo)
 
 ### 1. [UL Student Records System – CS4013](https://github.com/CaylumH/student-record-system)
 A **Java-based student records system** for managing transcripts, grades, and progression at UL.  
