@@ -6,7 +6,7 @@ This portfolio showcases software development projects completed during my Compu
 
 ## Projects
 
-### 1. UL Student Records System – CS4013
+### 1. [UL Student Records System – CS4013](https://github.com/CaylumH/student-record-system)
 A **Java-based student records system** for managing transcripts, grades, and progression at UL.  
 - **Tech:** Java (OOP), CSV files, CLI interface  
 - **Key Features:** Student/faculty access, QCA calculations, progression tracking, exam board tools  
@@ -15,7 +15,7 @@ A **Java-based student records system** for managing transcripts, grades, and pr
 
 ---
 
-### 2. Meowketplace – CS4116
+### 2. [Meowketplace – CS4116](https://github.com/CaylumH/meowketplace)
 A **business service marketplace** for pet-related services.  
 - **Tech:** PHP, HTML, CSS, Bootstrap, React, MySQL/MariaDB  
 - **Key Features:** User/business accounts, service listings, messaging & negotiation, verified reviews, admin controls  
@@ -24,7 +24,7 @@ A **business service marketplace** for pet-related services.
 
 ---
 
-### 3. Weather App – CS4084
+### 3. [Weather App – CS4084](https://github.com/CaylumH/weather-app)
 An **Android weather app** providing forecasts, maps, and favourite locations.  
 - **Tech:** Java/Kotlin, Android Studio, Activities & Fragments, API integration  
 - **Key Features:** Home dashboard, weather maps, forecast details, persistent login, settings  
@@ -33,7 +33,7 @@ An **Android weather app** providing forecasts, maps, and favourite locations.
 
 ---
 
-### 4. Class Scheduler Application – CS4076
+### 4. [Class Scheduler Application – CS4076](https://github.com/CaylumH/class-scheduler-application)
 A **TCP client-server application** for scheduling classes with clash detection and rescheduling.  
 - **Tech:** Java, Swing GUI (client), console server, TCP sockets  
 - **Key Features:** Add/remove classes, display schedules, early lecture rescheduling, custom exception handling  
