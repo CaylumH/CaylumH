@@ -51,7 +51,7 @@ A **TCP client-server application** for scheduling classes with clash detection 
 ---
 
 ## About This Portfolio
-This portfolio highlights a variety of development work across **web, desktop, and mobile platforms**, demonstrating both **technical skills and the ability to deliver functional, user-focused software systems**. Each project includes clear documentation and visual previews to help employers quickly understand the work completed.
+This portfolio highlights a variety of my completed development work across **web, desktop, and mobile platforms**, demonstrating both **technical skills and the ability to deliver functional, user-friendly software systems**. Each project includes documentation and visual previews to help employers understand the work completed.
 
 ---
 
